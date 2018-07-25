@@ -1,0 +1,19 @@
+{
+  "name": "web_server_for_serving_web_pages",
+  "description": "A simple web server for web pages",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sumitskj/Node-Web-Server.git"
+  },
+  "author": "sumit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sumitskj/Node-Web-Server/issues"
+  },
+  "homepage": "https://github.com/sumitskj/Node-Web-Server#readme"
+}
